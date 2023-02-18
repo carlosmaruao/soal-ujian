@@ -1,0 +1,11 @@
+@media (max-width: 48em) {}
+
+@media (min-width: 48em) {}
+
+canvas {
+    background-color: #fff;
+    padding: 2%;
+    color: black;
+    border: solid 1px #ccc;
+}
+ 

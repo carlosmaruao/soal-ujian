@@ -1,0 +1,19 @@
+select.tengah {
+    text-align: center;
+    text-align-last: center;
+    /* webkit*/
+}
+
+option {
+    text-align: left;
+    /* reset to left*/
+}
+
+@media (min-width: 60em) {
+    #sidenav {
+        position: fixed;
+        z-index: 1;
+        overflow-x: hidden;
+        width: 24%;
+    }
+}

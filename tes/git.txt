@@ -1,0 +1,60 @@
+Larval artisan
+Php namespaces resolutionver
+Larval blade sniper
+Larval blade spacer
+Larval extra intelisense
+Php intelipsense
+Larval goto view
+Laravel-goto-controller
+Doting
+Paste json as code
+Beauty
+Tailwind css intel
+Vscode great icons
+Database client
+
+
+
+
+Git
+
+Di Mac ssh-keygen 
+Ssh-keygen -f lspr_id_rsa
+
+Config file
+#Account1
+Host github.com
+    HostName github.com
+    IdentityFile ~/.ssh/id_rsa
+
+#Account2
+Host github.com-lspr
+    HostName github.com
+    IdentityFile ~/.ssh/lspr_id_rsa
+
+
+
+Git init
+Git branch
+Git add .
+Git status
+Git commit -m ‘test’
+Git remote add origin https/ssh
+Git push -u {Nama remote} {Nama branch} 
+Git push -u  {nama remote} main:{new branch}
+Git push -u {nama remote} —all
+
+Git push —delete {nama remote} {nama branch}
+	
+Git clone {urlgit}
+Git clone {urlgit} {newFolder}
+
+Git config  —global user.name {usergit}
+Git config —global user.email {emailgit}
+
+
+
+Git remote
+Git remote get-url {Nama remote}
+
+Git remote rm {Nama remote}
