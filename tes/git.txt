@@ -16,9 +16,13 @@ Database client
 
 
 
+
 Git
 
-Di Mac ssh-keygen 
+Di Mac 
+cd /Users/C02FJ10VQ05R/.ssh
+
+ssh-keygen 
 Ssh-keygen -f lspr_id_rsa
 
 Config file
@@ -32,10 +36,19 @@ Host github.com-lspr
     HostName github.com
     IdentityFile ~/.ssh/lspr_id_rsa
 
+rm -rf .git*  
+
+git config --global user.name christabelchelsea
+git config --global user.email christabel.chelsea@gmail.com
+Git remote add origin https/ssh
+
+Git remote -v
+Git remote set-url {namaremote} {nama git baru}
 
 
 Git init
-Git branch
+git branch -M main
+
 Git add .
 Git status
 Git commit -m ‘test’
@@ -52,7 +65,10 @@ Git clone {urlgit} {newFolder}
 Git config  —global user.name {usergit}
 Git config —global user.email {emailgit}
 
+git restore --staged . 
 
+Git remote -v
+Git remote set-url {namaremote} {nama git baru}
 
 Git remote
 Git remote get-url {Nama remote}
