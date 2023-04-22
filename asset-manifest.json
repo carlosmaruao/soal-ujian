@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/soal-ujian/static/css/main.c22d1854.css",
-    "main.js": "/soal-ujian/static/js/main.df6694af.js",
+    "main.css": "/soal-ujian/static/css/main.c6e356ca.css",
+    "main.js": "/soal-ujian/static/js/main.8729236f.js",
     "static/js/845.50d1be99.chunk.js": "/soal-ujian/static/js/845.50d1be99.chunk.js",
     "static/media/play.mp3": "/soal-ujian/static/media/play.8e5f6d1d81d4e1414b95.mp3",
     "static/media/correct.mp3": "/soal-ujian/static/media/correct.160572d72c858155072e.mp3",
     "static/media/wrong.mp3": "/soal-ujian/static/media/wrong.e946821894ae9b0a0d6f.mp3",
     "index.html": "/soal-ujian/index.html",
-    "main.c22d1854.css.map": "/soal-ujian/static/css/main.c22d1854.css.map",
-    "main.df6694af.js.map": "/soal-ujian/static/js/main.df6694af.js.map",
+    "main.c6e356ca.css.map": "/soal-ujian/static/css/main.c6e356ca.css.map",
+    "main.8729236f.js.map": "/soal-ujian/static/js/main.8729236f.js.map",
     "845.50d1be99.chunk.js.map": "/soal-ujian/static/js/845.50d1be99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c22d1854.css",
-    "static/js/main.df6694af.js"
+    "static/css/main.c6e356ca.css",
+    "static/js/main.8729236f.js"
   ]
 }
