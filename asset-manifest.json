@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/soal-ujian/static/css/main.4aa2a718.css",
-    "main.js": "/soal-ujian/static/js/main.f72cb225.js",
+    "main.css": "/soal-ujian/static/css/main.741b426c.css",
+    "main.js": "/soal-ujian/static/js/main.559304d5.js",
     "static/js/845.50d1be99.chunk.js": "/soal-ujian/static/js/845.50d1be99.chunk.js",
     "static/media/play.mp3": "/soal-ujian/static/media/play.8e5f6d1d81d4e1414b95.mp3",
     "static/media/correct.mp3": "/soal-ujian/static/media/correct.160572d72c858155072e.mp3",
     "static/media/wrong.mp3": "/soal-ujian/static/media/wrong.e946821894ae9b0a0d6f.mp3",
     "index.html": "/soal-ujian/index.html",
-    "main.4aa2a718.css.map": "/soal-ujian/static/css/main.4aa2a718.css.map",
-    "main.f72cb225.js.map": "/soal-ujian/static/js/main.f72cb225.js.map",
+    "main.741b426c.css.map": "/soal-ujian/static/css/main.741b426c.css.map",
+    "main.559304d5.js.map": "/soal-ujian/static/js/main.559304d5.js.map",
     "845.50d1be99.chunk.js.map": "/soal-ujian/static/js/845.50d1be99.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aa2a718.css",
-    "static/js/main.f72cb225.js"
+    "static/css/main.741b426c.css",
+    "static/js/main.559304d5.js"
   ]
 }
